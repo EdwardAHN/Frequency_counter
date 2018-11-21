@@ -66,6 +66,10 @@
       (Type "Report")))
   (Folder "Referenced Projects")
   (PartMRUSelector
+    ("HEADER 2/SM"
+      (FullPartName "HEADER 2/SM.Normal")
+      (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
     ("SW KEY-SPST"
       (FullPartName "SW KEY-SPST.Normal")
       (LibraryName "C:\CADENCE\SPB_16.6\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
@@ -103,13 +107,13 @@
     (Doc
       (Type "COrSchematicDoc")
       (Frame
-        (Placement "44 2 3 -1 -1 -8 -31 52 1687 52 522")
-        (Scroll "-94 60")
-        (Zoom "100")
+        (Placement "44 2 3 -1 -1 -9 -38 64 1716 64 516")
+        (Scroll "-291 -2")
+        (Zoom "52")
         (Occurrence "/"))
       (Path
-         "D:\WIZNET\WIZNET_PRODUCT\________외부강의\마스터\FREQUENCY_COUNTER\01.SCHEMATIC\MAEG128_BASIC_BOARD.DSN")
+         "C:\USERS\NAJGH\DESKTOP\전자회로\MASTER\01.SCHEMATIC\MAEG128_BASIC_BOARD.DSN")
       (Schematic "SCHEMATIC1")
       (Page "FREQUENCY_INDICATOR")))
-  (MPSSessionName "Administrator")
+  (MPSSessionName "najgh")
   (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_16.6\tools\capture\library"))
